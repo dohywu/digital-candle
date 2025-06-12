@@ -106,7 +106,7 @@ function startCandle() {
   messageDiv.html('');
 }
 
-// Smoke 클래스 정의
+//Smoke 클래스 정의
 class Smoke {
   constructor(x, y) {
     this.x = x + random(-5, 5);
